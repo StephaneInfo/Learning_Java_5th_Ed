@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="" />
+    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="2020_12_03 11h06">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
       <recent name="C:\github\Java\Learning Java\Chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.HelloJava4">
     <configuration name="HelloJava2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava2" />
       <module name="Learning Java" />
@@ -45,6 +47,13 @@
     </configuration>
     <configuration name="HelloJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava3" />
+      <module name="Learning Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloJava4" />
       <module name="Learning Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,9 +73,11 @@
       <item itemvalue="Application.HelloJava2" />
       <item itemvalue="Application.HelloJava3" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloJava4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloJava4" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloJava3" />
         <item itemvalue="Application.HelloJava2" />
@@ -82,6 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1606818192871</updated>
     </task>
+    <task id="LOCAL-00001" summary="2020_12_03 11h06">
+      <created>1606989990350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606989990350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020_12_03 11h06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020_12_03 11h06" />
   </component>
 </project>
