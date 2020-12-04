@@ -3,6 +3,10 @@ package ch05;
 public class Apple {
 
     float mass;
+    int size;
+    static float gravAccel = 9.8F;
+    static final float EARTH_ACCEL = 9.8F;
+    static int SMALL = 0, MEDIUM = 1, LARGE = 2;
     private float diameter = 1.0F;
     int x, y;
 
@@ -12,6 +16,18 @@ public class Apple {
 
     public float getDiameter(){
         return(diameter);
+    }
+
+    float getWeight(){
+        return mass * gravAccel;
+    }
+
+    public void resetEverything(){
+        setSize(MEDIUM);
+    }
+
+    private void setSize(int s) {
+        size = s;
     }
 
     boolean IsTouching(Apple other){
