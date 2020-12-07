@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="2020_12_04 18h10">
+    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="2020_12_04 18h43">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/Field.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/HelloComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/HelloComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/HelloComponent2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/HelloComponent2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/HelloJava2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/HelloJava2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/HelloJava3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/HelloJava3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/HelloJava4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/HelloJava4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/TestSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch02/TestSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/PrintAppleDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/PrintAppleDetails2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/PrintAppleDetails3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/PrintAppleDetails4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="PrintAppleDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.PrintAppleDetails" />
+      <option name="MAIN_CLASS_NAME" value="Ch05.PrintAppleDetails" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.*" />
+          <option name="PATTERN" value="Ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="PrintAppleDetails2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.PrintAppleDetails2" />
+      <option name="MAIN_CLASS_NAME" value="Ch05.PrintAppleDetails2" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.*" />
+          <option name="PATTERN" value="Ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="PrintAppleDetails3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.PrintAppleDetails3" />
+      <option name="MAIN_CLASS_NAME" value="Ch05.PrintAppleDetails3" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.*" />
+          <option name="PATTERN" value="Ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="PrintAppleDetails4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.PrintAppleDetails4" />
+      <option name="MAIN_CLASS_NAME" value="Ch05.PrintAppleDetails4" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.*" />
+          <option name="PATTERN" value="Ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,9 +130,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrintAppleDetails4" />
+        <item itemvalue="Application.PrintAppleDetails" />
         <item itemvalue="Application.PrintAppleDetails3" />
         <item itemvalue="Application.PrintAppleDetails2" />
-        <item itemvalue="Application.PrintAppleDetails" />
         <item itemvalue="Application.HelloJava2" />
       </list>
     </recent_temporary>
@@ -157,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607102136047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020_12_04 18h43">
+      <created>1607103832215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607103832215</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,11 +194,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020_12_03 11h06" />
     <MESSAGE value="2020_12_03 13h34" />
     <MESSAGE value="2020_12_04 18h10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020_12_04 18h10" />
+    <MESSAGE value="2020_12_04 18h43" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020_12_04 18h43" />
   </component>
 </project>

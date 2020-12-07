@@ -1,4 +1,4 @@
-package ch05;
+package Ch05;
 
 public class PrintAppleDetails3 {
 
