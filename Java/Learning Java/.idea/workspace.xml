@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="2020_12_07 12h00">
+    <list default="true" id="743b74fd-89e6-43d0-af72-448af1fde98a" name="Default Changelist" comment="2020_12_08 18h30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/HelloComponent2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/HelloJava4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/Field.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Java/ch05/PrintAppleDetails4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/HelloComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/HelloComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/HelloComponent2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/HelloComponent2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/HelloJava2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/HelloJava2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/HelloJava3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/HelloJava3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/HelloJava4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/HelloJava4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch02/TestSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/TestSwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/PrintAppleDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/PrintAppleDetails2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/PrintAppleDetails3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch05/PrintAppleDetails4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/PrintAppleDetails4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607338859003</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020_12_08 18h30">
+      <created>1607448594517</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607448594517</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +204,7 @@
     <MESSAGE value="2020_12_04 18h10" />
     <MESSAGE value="2020_12_04 18h43" />
     <MESSAGE value="2020_12_07 12h00" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020_12_07 12h00" />
+    <MESSAGE value="2020_12_08 18h30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020_12_08 18h30" />
   </component>
 </project>
